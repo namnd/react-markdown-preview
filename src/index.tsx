@@ -5,8 +5,6 @@ import rehypeRaw from 'rehype-raw';
 import Prism from 'prismjs';
 import 'prismjs/components/prism-markup';
 import { loadLang } from './langs';
-import './styles/markdown.less';
-import './styles/markdowncolor.less';
 
 export type MarkdownPreviewProps = {
   className?: string;

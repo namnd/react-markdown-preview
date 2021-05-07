@@ -47,9 +47,9 @@
     "@babel/runtime": "7.13.10",
     "@types/prismjs": "1.16.4",
     "prismjs": "1.23.0",
+    "react-markdown": "6.0.1",
     "rehype-raw": "5.1.0",
-    "remark-gfm": "1.0.0",
-    "react-markdown": "6.0.1"
+    "remark-gfm": "1.0.0"
   },
   "devDependencies": {
     "@kkt/less-modules": "6.9.0",
